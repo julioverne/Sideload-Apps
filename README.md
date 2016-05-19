@@ -7,7 +7,7 @@ Deezer v001
 
 * Fully Premium Features
 
-Spotify v002
+Spotify v003
 ------
 
 * Premium Features (except Music offline)
