@@ -12,6 +12,13 @@ Spotify v003
 
 * Premium Features (except Music offline)
 
+Pandora v001
+------
+
+* Unrestricted Country
+* No ADs
+* Unlimited Skips
+
 How to use
 ------
 
