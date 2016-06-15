@@ -12,11 +12,12 @@ Spotify v003
 
 * Premium Features (except Music offline)
 
-Pandora v002
+Pandora v003
 ------
 
 * Unrestricted Country
 * No ADs
+* Downloads
 * Unlimited Skips
 * No delay Button Skip
 * No 180 minutes timeout
