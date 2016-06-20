@@ -12,11 +12,12 @@ Spotify v003
 
 * Premium Features (except Music offline)
 
-Pandora v003
+Pandora v005
 ------
 
 * Unrestricted Country
 * No ADs
+* High Quality Stream
 * Downloads
 * Unlimited Skips
 * No delay Button Skip
