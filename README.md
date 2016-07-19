@@ -12,7 +12,7 @@ Spotify v003
 
 * Premium Features (except Music offline)
 
-Pandora v005
+Pandora v006
 ------
 
 * Unrestricted Country
