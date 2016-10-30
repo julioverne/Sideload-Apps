@@ -23,6 +23,11 @@ Pandora v007
 * No delay Button Skip
 * No 180 minutes timeout
 
+MovieBox v001
+------
+
+* No ADs
+
 How to use
 ------
 
