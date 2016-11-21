@@ -7,7 +7,7 @@ Deezer v001
 
 * Fully Premium Features
 
-Spotify v003
+Spotify v004
 ------
 
 * Premium Features (except Music offline)
@@ -22,6 +22,17 @@ Pandora v007
 * Unlimited Skips
 * No delay Button Skip
 * No 180 minutes timeout
+
+SoundCloud v007
+------
+
+* Fully Premium Features
+* Unrestricted Country
+
+Napster v002
+------
+
+* Fully Premium Features
 
 MovieBox v001
 ------
